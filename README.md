@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohitDixitLinux
-- 👀 I’m interested in Linux
+- 👀 I’m a Linux Geek
 - 🌱 I’m currently learning Linux and Devops
 
 <!---
