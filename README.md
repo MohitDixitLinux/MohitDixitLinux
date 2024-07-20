@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohitDixitLinux
 - 👀 I’m a Linux Geek
-- 🌱 I’m currently learning Linux and Devops
+- 🌱 I’m currently learning DevOps
 
 <!---
 MohitDixitLinux/MohitDixitLinux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
